@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1787773344 source:c:\users\user\documents\imageeditor\main.c
+
+1787740735 c:\users\user\downloads\iup-3.32_win64_mingw6_lib\include\iup.h
+	"iupkey.h"
+	"iupdef.h"
+	"iup_export.h"
+
+1787740735 c:\users\user\downloads\iup-3.32_win64_mingw6_lib\include\iupkey.h
+
+1787740735 c:\users\user\downloads\iup-3.32_win64_mingw6_lib\include\iupdef.h
+
+1787740735 c:\users\user\downloads\iup-3.32_win64_mingw6_lib\include\iup_export.h
+	<emscripten.h>
+	<emscripten.h>
+	<emscripten.h>
+	<emscripten.h>
+
+1787830952 source:c:\users\user\documents\imageeditor\gui.c
+
+1787771556 c:\users\user\documents\imageeditor\image.h
+
+1787771556 c:\users\user\documents\imageeditor\processing.h
+	"image.h"
+
+1787771556 source:c:\users\user\documents\imageeditor\image.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"image.h"
+
+1787771556 source:c:\users\user\documents\imageeditor\processing.c
+	<stdlib.h>
+	"processing.h"
+
+1787831104 source:c:\users\user\documents\imageeditor\test_display.c
+
+1787831474 source:c:\users\user\documents\imageeditor\gui_1.c
+
+1787831349 source:c:\users\user\documents\imageeditor\test_display2.c
+	<stdlib.h>
+	<iup.h>
+
