@@ -1,7 +1,7 @@
 # Image Manipulation Assignment
 
 ## Description
-This repository contains an image manipulation application developed as part of the [Structured programing lab] course. The project is built using C and the IUP GUI library, allowing users to load images and apply various image processing operations through a graphical interface.
+This repository contains an image manipulation application developed as part of the Structured programing lab. The project is built using C and the IUP GUI library, allowing users to load images and apply various image processing operations through a graphical interface.
 
 ## Features Implemented
 - Load and display BMP images
